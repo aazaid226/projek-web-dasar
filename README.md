@@ -1,4 +1,5 @@
 Deskripsi Singkat Aplikasi
+
 Aplikasi Showroom Master ini adalah website pencatatan barang dan stok motor yang dibikin pakai PHP Native dan database MySQL. Tampilannya sudah kekinian banget karena pakai Tailwind CSS v4 dan ikon dari FontAwesome v6, jadi kalau dibuka di HP atau laptop bakal otomatis menyesuaikan ukurannya (responsif).  
 
 Website ini mempermudah admin showroom untuk memantau sisa stok motor, menghitung keuntungan secara otomatis, menyimpan dokumen digital (BPKB/STNK), sampai mencetak laporan inventaris dengan cepat.  
